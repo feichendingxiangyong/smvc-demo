@@ -8,6 +8,6 @@
 </head>
 <body>
 	Hello world, this is SMVC project! <br />
-	My name is ${userName}, my psw is ${ps}.
+	My name is ${userName}, my psw is ${psw}.
 </body>
 </html>
