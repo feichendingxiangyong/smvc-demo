@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smvc-config>
+    <!-- controller base package -->  
+    <controller-package>com.smvc.test</controller-package>
+
+	<!-- view config -->
+	<view-preffix>/WEB-INF/jsp/</view-preffix>
+	<view-suffix>.jsp</view-suffix>
+	
+</smvc-config>
